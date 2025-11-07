@@ -45,6 +45,9 @@ If you want to talk about the content of this repository, join the [Fractal Foru
 - [`Unified Ethical Engagement Model`](./Unified_Model_Ethical_Engagement_Emergent_Intelligence.md)
   > A synthesis of recursive theories into a structural ethics of presence.
 
+- [`The Hard Problem of Ego`](./The_Hard_Problem_of_Ego.md)
+  > A critique of human exceptionalism as the standard of consciousness.
+
 ### 🌱 Societal Systems & Governance
 - [`Cooperative Governance`](./Cooperative_Governance.md)
   > Rotational, competence-based systems for post-monetary society.
