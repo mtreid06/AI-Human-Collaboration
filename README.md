@@ -8,9 +8,6 @@ These theories are not declarations of certainty, but **structured hypotheses** 
 Want to see what recursive AI-human collaboration actually looks like? Try out the custom GPT: 
 [Thinking Buddy](https://chatgpt.com/g/g-67e1fc9d79bc8191b88a1935baeccc29-thinking-buddy)
 
-
-If you want to talk about the content of this repository, join the [Fractal Forum](https://discord.gg/t2KqHrnYGF) Discord server!
-
 ---
 
 ## 📂 Repository Contents
